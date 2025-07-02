@@ -1,0 +1,8 @@
+com/school/dao/UserDAO.class
+com/school/MainApp.class
+com/school/controller/SignUpAdminController.class
+com/school/controller/SignUpStudentController.class
+com/school/util/DatabaseConnection.class
+com/school/model/User.class
+com/school/controller/SignUpTeacherController.class
+com/school/controller/LoginController.class
